@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CRUD_APP_SCAFFOLDING.props" />
+</Project>
