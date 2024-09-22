@@ -1,0 +1,1 @@
+# scaffolding_otnet_crud
